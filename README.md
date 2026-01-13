@@ -8,7 +8,7 @@
 ---
 
 ## Key Vocab
-
+....
 - **Constraint**: a rule enforced on the data columns of a table. Ensures that
   only appropriate data is saved to the database.
 - **Validation**: an automatic check to ensure that data entered is sensible and
